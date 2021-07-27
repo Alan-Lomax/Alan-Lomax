@@ -2,7 +2,7 @@ Hi, I’m @Alan-Lomax
 
 I'm a Retired Electrical Engineer who specialized in automation and distributed control systems (both Hardware and Software).<br> 
 I am interested in Model Railways, Arduino, Raspberry Pi, 3D printing and general technical stuff. <br>
-I am currently learning the ESP32 ins and outs on a dedicated network in my lab.
+I am currently learning the ESP32 ins and outs on a dedicated network in my lab. (well ... allright then .. spare bedroom!)
 
 I'm a Member of 
 - MERG (Model Electronics Railway Group): https://www.merg.org.uk/  
